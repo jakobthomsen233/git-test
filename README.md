@@ -3,4 +3,4 @@
 Min første ændring på en branch
 
 
-Part 2 – ændret på main
+Part 2 – løst konflikt
